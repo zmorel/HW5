@@ -1,2 +1,5 @@
 body {background: pink; font-family: "Comic Sans MS"}
-<a ref="http://www.google.com"> Google <a/> 
+<a ref="http://www.google.com"> Google <a/>
+
+h1 {test align:center; font weighted:bold, font-style:italic; }
+<h1> BAIS: 3300 - Software Design <h1>
